@@ -1,4 +1,5 @@
 import React from 'react';
+import Footer from '../../Footer/Footer';
 import Hero from '../../Hero/Hero';
 import ServiceSection from '../../ServiceSection/ServiceSection';
 import ServiceSpacial from '../../ServiceSpacial/ServiceSpacial';
@@ -11,6 +12,7 @@ function Home() {
       <ServiceSection />
       <ServiceSpacial />
       <Testimonial />
+      <Footer />
     </>
   )
 }
