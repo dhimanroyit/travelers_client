@@ -22,6 +22,9 @@ module.exports = {
       fontFamily: {
         sans: ['Poppins', 'sans-serif']
       },
+      backgroundImage: theme => ({
+        'service-special': "url('/src/assets/service-spacial.jpg')",
+       })
       
     },
   },
