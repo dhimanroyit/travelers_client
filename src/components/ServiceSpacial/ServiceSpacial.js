@@ -3,7 +3,7 @@ import Button from '../Button/Button'
 
 function ServiceSpacial() {
   return (
-    <section className="h-96 bg-service-special bg-cover bg-center bg-fixed py-20 mb-60 relative">
+    <section className="h-96 bg-service-special bg-cover bg-center bg-fixed py-20 relative">
       <div className="absolute inset-0 bg-gray-900 opacity-40 z-20"></div>
       <div className="container mx-auto h-full flex justify-center items-center   relative z-30">
         <div className="w-2/3">
