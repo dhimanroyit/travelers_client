@@ -37,7 +37,7 @@ function NavBar() {
           Admin
         </Link>
       </nav>
-      <Button>Login</Button>
+      <Link to="/login"><Button>Login</Button></Link>
     </header>
   )
 }
