@@ -10,7 +10,7 @@ function OrderList() {
     status: 'pending'
   }
   return (
-    <section className="bg-white rounded-xl p-4 m-6 ">
+    <section className="bg-white rounded-xl p-7 m-6 ">
       <div className="px-5 py-1.5 bg-gray-200 rounded-lg grid grid-cols-5">
         <p>Name</p>
         <p>Email ID</p>
