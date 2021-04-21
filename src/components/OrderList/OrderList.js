@@ -12,11 +12,11 @@ function OrderList() {
   return (
     <section className="bg-white rounded-xl p-7 m-6 ">
       <div className="px-5 py-1.5 bg-gray-200 rounded-lg grid grid-cols-5">
-        <p>Name</p>
-        <p>Email ID</p>
-        <p>Service</p>
-        <p>Pay With</p>
-        <p>Status</p>
+        <div>Name</div>
+        <div>Email ID</div>
+        <div>Service</div>
+        <div>Pay With</div>
+        <div>Status</div>
       </div>
       <div className="space-y-2 mt-2">
         <OrderItem {...data} />

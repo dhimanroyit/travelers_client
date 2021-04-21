@@ -11,20 +11,20 @@ function Footer() {
           <h1 className="text-2xl font-bold mb-3">Travelers</h1>
           <p className="text-sm">Lorem ipsum dolor sit amet consectetur adipisicing elit. At, vitae? Natus animi, dolore fuga quisquam error in quae dignissimos quaerat, assumenda doloribus repudiandae, corporis !</p>
           <div className="flex space-x-4 mt-4">
-            <a className="px-2 py-1 hover:text-indigo-700 transition-colors duration-100" href=""><FontAwesomeIcon icon={faFacebookF} /></a>
-            <a className="px-2 py-1 hover:text-indigo-700 transition-colors duration-100" href=""><FontAwesomeIcon icon={faTwitter} /></a>
-            <a className="px-2 py-1 hover:text-indigo-700 transition-colors duration-100" href=""><FontAwesomeIcon icon={faGoogle} /></a>
-            <a className="px-2 py-1 hover:text-indigo-700 transition-colors duration-100" href=""><FontAwesomeIcon icon={faYoutube} /></a>
+            <a className="px-2 py-1 hover:text-indigo-700 transition-colors duration-100" href="https://www.facebook.com/"><FontAwesomeIcon icon={faFacebookF} /></a>
+            <a className="px-2 py-1 hover:text-indigo-700 transition-colors duration-100" href="https://www.facebook.com/"><FontAwesomeIcon icon={faTwitter} /></a>
+            <a className="px-2 py-1 hover:text-indigo-700 transition-colors duration-100" href="https://www.facebook.com/"><FontAwesomeIcon icon={faGoogle} /></a>
+            <a className="px-2 py-1 hover:text-indigo-700 transition-colors duration-100" href="https://www.facebook.com/"><FontAwesomeIcon icon={faYoutube} /></a>
           </div>
         </div>
         <div className="">
           <h1 className="text-2xl font-bold mb-3">Support</h1>
           <ul className="text-sm space-y-3">
-            <li><a href="#">Customer Support</a></li>
-            <li><a href="#">Privacy & Policy</a></li>
-            <li><a href="#">Terms & Condition</a></li>
-            <li><a href="#">Forum</a></li>
-            <li><a href="#">Tour Guid</a></li>
+            <li><a href="https://www.facebook.com/">Customer Support</a></li>
+            <li><a href="https://www.facebook.com/">Privacy & Policy</a></li>
+            <li><a href="https://www.facebook.com/">Terms & Condition</a></li>
+            <li><a href="https://www.facebook.com/">Forum</a></li>
+            <li><a href="https://www.facebook.com/">Tour Guid</a></li>
           </ul>
         </div>
         <div className="">

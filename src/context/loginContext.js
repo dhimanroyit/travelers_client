@@ -3,7 +3,7 @@ import {createContext, useState} from 'react';
 export const loginContext = createContext();
 
 const LoginContextProvider = ({children}) => {
-  const {loginUser, setLoginUser} = useState({
+  const [loginUser, setLoginUser] = useState({
     login: false,
     isAdmin: false,
     name: "",
