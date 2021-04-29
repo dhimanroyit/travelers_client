@@ -1,7 +1,7 @@
-# Project Name: Book store app
+# Project Name: Travelers app
 Open [live demo](https://travelers-73e22.web.app/) to view it in the browser.
 
-This is Traveler service App. 
+This is Traveler agency service App. 
 
 #### Using Tools:
 - [React](https://reactjs.org/)
